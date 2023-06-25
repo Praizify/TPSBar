@@ -1,0 +1,12 @@
+name: TPSBar
+version: '1.1'
+main: com.praisejs.tpsbar.main
+api-version: 1.19
+website: https://praisejs.com
+commands:
+  tpsbar:
+    usage: /tpsbar
+    permission: tpsbar.use
+  msptbar:
+    usage: /msptbar
+    permission: msptbar.use
